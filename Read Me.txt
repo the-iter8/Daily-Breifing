@@ -1,0 +1,2 @@
+Start the assistant.bat software to get your daily briefing.
+Make sure to change the password and the username at the start
